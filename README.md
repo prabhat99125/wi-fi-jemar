@@ -1,5 +1,5 @@
 
-<h1 align="center"><u>wi-fi jamer</u></h1>
+<h1 align="center"><u>wi-fi jemar</u></h1>
 
 
 - Open <u>https://esp.huhn.me/</u> Chrome, or another supported browser
