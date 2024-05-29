@@ -8,6 +8,6 @@
 - Select your Deauther .bin file
 - Click Program
 
-  <p align="center">ssid = pendwil</p>P<br>
-  <p align="center">password = Deauther</p><br>
- <p align="center"> url = 192.168.4.1</p><br>
+  <p align="center">ssid = pendwil</p>
+  <p align="center">password = Deauther</p>
+ <p align="center"> url = 192.168.4.1</p>
