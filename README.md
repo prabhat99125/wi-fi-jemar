@@ -1,4 +1,4 @@
-# wi-fi-jemar
+
 <h1 align="center">wi-fi jamer</h1>
 
 
@@ -8,6 +8,6 @@
 - Select your Deauther .bin file
 - Click Program
 
-  ssid = pendwil<br>
-  password = Deauther<br>
-  url = 192.168.4.1<br>
+  <p align="center">ssid = pendwil</p>P<br>
+  <p align="center">password = Deauther</p><br>
+ <p align="center"> url = 192.168.4.1</p><br>
