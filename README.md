@@ -7,3 +7,7 @@
 - Click Connect and select the serial port of your ESP
 - Select your Deauther .bin file
 - Click Program
+
+  ssid = pendwil
+  password = Deauther
+  url = 192.168.4.1
