@@ -9,5 +9,5 @@
 - Click Program
 
   <p align="center">ssid = pendwil</p>
-  <p align="center">password = Deauther</p>
+  <p align="center">password = deauther</p>
  <p align="center"> url = 192.168.4.1</p>
